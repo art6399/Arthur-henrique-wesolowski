@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1 {font-size: 250%;
+    color: rgb(238, 17, 17);
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 4px;
+    margin-left: 20%;
+    padding-left: 20%;
+}
+.parte1 {border-left: 20%;
+    background-color: aqua;
+    border-color: blue;
+    border-width: 8px;
+    border-style: outset;
+}
+
